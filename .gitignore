@@ -7,12 +7,12 @@ Thumbs.db
 *--.*
 *-.*
 
-/inventories/*/host_vars/*
-/inventories/*/hosts.yml
-
+/host_vars/*
 /logs/*
 /roles/*
 !/roles/bezr*
 
-!.gitkeep
+/production
+/staging
 
+!.gitkeep
